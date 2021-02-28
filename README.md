@@ -29,7 +29,7 @@ Best User Bot To Manage Your Telegram Account
 
 ## Telegram-String
 
-[![Run on Repl.it](https://repl.it/badge/github/PrimeUserbot/Prime)](https://PrimeUserbot.PrimeUserbot.repl.run)
+[![Run on Repl.it](https://repl.it/badge/github/PrimeUserbot/Prime)](https://repl.it/@primeuserbot/PrimeUserbot)
 
 
 ### The Normal Way
