@@ -17,8 +17,8 @@ pm_caption += "**Current Sat** : `PrimeUserbotSat-8.00`\n"
 pm_caption += f"**My Boss** : {DEFAULTUSER} \n"
 pm_caption += "**Database** : `Online`\n\n"
 pm_caption += "**License** : [MIT Licence](https://github.com/primeuserbot/PrimeUserbot/blob/main/LICENSE)\n"]
-pm_caption += "Copyright : By [PrimeUserbot@Github](GitHub.com/PrimeUserbot\n"]
-pm_caption += " [Deploy PrimeUserbot](https://github.com/primeuserbot/PrimeUserbot)"]
+pm_caption += "Copyright : By [PrimeUserbot@Github](GitHub.com/PrimeUserbot\n"
+pm_caption += " [Deploy PrimeUserbot](https://github.com/primeuserbot/PrimeUserbot)"
 
 @borg.on(admin_cmd(pattern=r"alive"))
 async def PrimeUserbot(alive):
