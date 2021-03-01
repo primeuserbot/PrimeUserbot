@@ -41,6 +41,21 @@
       "description": "Get From Repl.run Or Run Locally",
       "value": ""
     },
+    "GITHUB_ACCESS_TOKEN": {
+      "description": "Your Github Access Token for GitHub Commit Plugin. Google 'Github access token' to find more About It.",
+      "value": "",
+      "required": false
+    },
+    "GIT_REPO_NAME": {
+      "description": "Your repo name Example: Prime2345/PrimeUserbot, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "value": "",
+      "required": false
+    },
+    "LYDIA_API_KEY": {
+      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
+      "value": "",
+      "required": false
+    },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
       "value": ""
@@ -64,7 +79,7 @@
       "required": false
     },
     "TG_BOT_USER_NAME_BF_HER": {
-      "description": "You Telegram Bot @Username Here. Needed For Help Module And Cbutton.",
+      "description": "You Telegram Bot API Key Here. Needed For Help Module And Cbutton.",
       "value": ""
     },
     "DOWNLOAD_PFP_URL_CLOCK": {
