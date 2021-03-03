@@ -1,4 +1,4 @@
-# Prime-USERBOT
+# Prime USERBOT
 
 <p align="center">
 <img src="https://telegra.ph/file/30f297984523fccb8ce8c.jpg" alt="PrimeUserbot">
